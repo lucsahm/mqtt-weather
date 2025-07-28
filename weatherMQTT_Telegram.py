@@ -8,7 +8,7 @@ OWM_API_KEY = 'SUACHAVE'  # <- Insira sua chave da OpenWeatherMap
 CITY = 'Blumenau,BR'
 MQTT_BROKER = 'broker.hivemq.com'
 MQTT_PORT = 1883
-MQTT_TOPIC = 'blumenau/clima'
+MQTT_TOPIC = 'seu/topico'
 
 TELEGRAM_BOT_TOKEN = 'SEU_TOKEN_AQUI'
 TELEGRAM_CHAT_ID = 'SEU_CHAT_ID_AQUI'  # geralmente começa com - se for grupo
