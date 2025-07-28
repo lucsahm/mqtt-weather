@@ -8,7 +8,7 @@ OWM_API_KEY = 'SUACHAVE'  # <- Insira sua chave da OpenWeatherMap
 CITY = 'Blumenau,BR'
 MQTT_BROKER = 'broker.hivemq.com'  # Pode usar o seu broker local também
 MQTT_PORT = 1883
-MQTT_TOPIC = 'blumenau/clima'
+MQTT_TOPIC = 'seu/topico'
 
 
 def obter_dados_clima():
